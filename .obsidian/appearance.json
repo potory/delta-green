@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "clean-embeds"
-  ]
+  ],
+  "cssTheme": ""
 }
