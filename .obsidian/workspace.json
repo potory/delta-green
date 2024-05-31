@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "43dc89d80a633fc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1565f27dbe5ed346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "462bd1444ab87ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Общая информация/Механики/Атрибуты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92671e3082bf5af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f6515d135b97fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795c8064505b320c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f570f1e5e02f14f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "774aa04b954f9477",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c8d862d2d60441a",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f7fe67093b75a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7a467aeaedfead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Общая информация/Механики/Атрибуты.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62657878af0bb10d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Общая информация/Механики/Атрибуты.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fa999ab4612f8c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "558bc39e5c858452",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Общая информация/Механики/Атрибуты.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "462bd1444ab87ed4",
+  "lastOpenFiles": [
+    "Общая информация/Механики/Навыки.md",
+    "Общая информация/Механики/Подавление безумия.md",
+    "Общая информация/Механики/Психические расстройства.md",
+    "Общая информация/Механики/Связи.md",
+    "Общая информация/Механики/Тяжелое прошлое.md",
+    "Общая информация/_Начало игры/Приложения/Готовые наборы характеристик.md",
+    "Общая информация/_Начало игры/Приложения/Отличительные черты.md",
+    "Общая информация/_Начало игры/Приложения/Список профессий.md",
+    "Общая информация/Механики/Атрибуты.md",
+    "Мотивации.md",
+    "Общая информация/_Начало игры/Создание агента.md",
+    "Адаптация.md",
+    "Общая информация/Профессии/Антрополог или историк.md",
+    "Общая информация/Профессии/Дополнительные/Программный менеджер.md",
+    "Общая информация/Механики/Характеристики.md",
+    "Общая информация/Механики/Угрозы рассудку.md",
+    "Общая информация/Механики/Влияние на связи.md",
+    "Общая информация/Механики/Дом.md",
+    "Общая информация/Механики/Лечение.md",
+    "Общая информация/Механики/Встречные проверки.md",
+    "Общая информация/Навыки/Сверхъестественное.md",
+    "Общая информация/Навыки/Скрытность.md",
+    "Создание контента/Создание профессии.md",
+    "Общая информация/Навыки/Рукопашный бой.md",
+    "Общая информация/Навыки/Плавание.md",
+    "Общая информация/Навыки/Выживание.md",
+    "Общая информация/_Начало игры",
+    "Общая информация/Навыки",
+    "Общая информация",
+    "Общая информация/_Начало игры/Приложения/splitmd.py",
+    "Приложения/Приложения к созданию агента/Новый текстовый документ.txt",
+    "Данные/Навыки",
+    "Данные",
+    "Создание контента",
+    "Untitled.canvas",
+    "Общая информация/Профессии/Дополнительные",
+    "Общая информация/Профессии"
+  ]
+}
